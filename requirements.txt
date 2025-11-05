@@ -1,0 +1,13 @@
+
+---
+
+## 🧩 **requirements.txt**
+```text
+adafruit-circuitpython-dht
+adafruit-circuitpython-ssd1306
+adafruit-circuitpython-ads1x15
+Pillow
+board
+busio
+RPi.GPIO
+
